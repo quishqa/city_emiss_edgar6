@@ -12,8 +12,8 @@ cities <- c("Delhi", "Mexico", "Pekin", "San_Fransico",
             "Tokyo", "London", "Sao_Paulo", "Manille")
 cities_lab <- c("Delhi", "Mexico", "Pekin", "San Fransico", 
                 "Tokyo", "London", "São Paulo", "Manille")
-colors <- c("orange", "chartreuse4", "brown4", "darkblue",
-            "firebrick", "cadetblue4", "red", "darkgoldenrod")
+colors <- c("orange", "chartreuse4", "darkred", "darkblue",
+            "firebrick1", "cadetblue4", "black", "darkgoldenrod")
 
 total <- selectByDate(total, start = "1/1/2000", "1/1/2018")
 
